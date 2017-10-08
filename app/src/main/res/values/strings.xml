@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Indonesian Culture</string>
+    <string name="alat_musik">Alat Musik</string>
+    <string name="cerita_rakyat">Cerita Rakyat</string>
+    <string name="makanan_minuman">Makanan Minuman</string>
+    <string name="motif_kain">Motif Kain</string>
+    <string name="musik_dan_lagu">Musik dan Lagu</string>
+    <string name="naskah_kuno_dan_prasasti">Naskah Kuno dan Prasasti</string>
+    <string name="ornamen">Ornamen</string>
+    <string name="pakaian_tradisional">Pakaian Tradisional</string>
+    <string name="permainan_tradisional">Permainan Tradisional</string>
+    <string name="produk_arsitektur">Produk Arsitektur</string>
+    <string name="ritual">Ritual</string>
+    <string name="seni_pertunjukan">Seni Pertunjukan</string>
+    <string name="senjata_dan_alat_perang">Senjata dan Alat Perang</string>
+    <string name="tarian">Tarian</string>
+    <string name="tata_cara">Tata Cara Pengobatan dan Pemeliharaan Kesehatan</string>
+</resources>
